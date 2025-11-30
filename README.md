@@ -33,7 +33,7 @@ A collaborative effort to enhance student access to professional opportunities a
 ### Tech Stack:
 
 #### Python
-* **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow (implied), Plotnine
+* **Libraries:** `Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow` (implied), `Plotnine`
 * **ML/Stats:** Logistic Regression, Linear & Polynomial Regression, Ridge, Lasso, KNN, K-Means Clustering, GMM, Decision Trees, Random Forest
 * **Visualization:** Matplotlib, Seaborn
 
@@ -43,8 +43,8 @@ A collaborative effort to enhance student access to professional opportunities a
 * **Visualization:** `ggplot2`, `ggridges`, `GGally`
 
 #### SQL / Database
-* **Tools:** SQL, DataGrip, Tableau
-* [cite_start]**Concepts:** CRUD Operations (CREATE, INSERT, UPDATE, DELETE), Constraints (PRIMARY KEY, NOT NULL, UNIQUE) [cite: 1, 3][cite_start], Aggregate Functions (COUNT, SUM, AVG, MIN, MAX) [cite: 153, 157, 163, 181, 187][cite_start], Joins (INNER, OUTER, CROSS), Clauses (WHERE, GROUP BY, HAVING, ORDER BY, LIMIT) [cite: 124, 138, 171, 11]
+* **Key Skills:** Database Creation & Management (e.g., CREATE, ALTER, INSERT, DELETE, UPDATE), Data Retrieval (e.g., SELECT, WHERE), Filtering & Aggregation (e.g., GROUP BY, HAVING, Aggregate Functions), Joining Tables (INNER, OUTER, CROSS Joins).
+* **Tools:** DataGrip, Tableau
 
 ---
 
