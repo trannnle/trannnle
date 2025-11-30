@@ -1,4 +1,4 @@
-## ˚✧₊⁎❝᷀ົཽ≀ˍ̮ ❝᷀ົཽ⁎⁺˳✧༚ Hello, I'm Tran!
+## •𐃷• Hello, I'm Tran!
 
 A recent graduate (May 2025) of **Chapman University**, majoring in **Business Administration (Finance)** with a themed inquiry in **Data Analytics**!
 
