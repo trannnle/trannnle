@@ -1,6 +1,6 @@
 ## •𐃷• Hello, I'm Tran!
 
-A recent graduate (May 2025) of **Chapman University**, majoring in **Business Administration (Finance)** with a themed inquiry in **Data Analytics**!
+**Chapman University** graduate (May 2025) with a major in **Business Administration (Finance)** and a focus in **Data Analytics**.
 
 ---
 
@@ -8,17 +8,12 @@ My journey into the world of data began with an intrigue for **data visualizatio
 
 I am often described by others as **adventurous, open-minded, and adaptable**, thriving in environments that require continuous learning and flexibility. If you're interested in connecting, collaborating on a project, or just chatting, please feel free to reach out!
 
-### Accessing My Projects
-
-This GitHub account hosts my primary project work across data analysis, machine learning, and business intelligence. I actively integrate my work from Python, R, and SQL coursework.
-
 ### Repository Structure:
 
-`trankle (my profile start page)`
-├── **Python-Projects**
-├── **R-Projects**
-├── **SQL-Projects**
-└── **Personal-Scripts**
+* [├── **Python-Projects**](<#>)
+* [├── **R-Projects**](<#>)
+* [├── **SQL-Projects**](<#>)
+* [└── **Personal-Scripts**](<#>)
 
 ---
 
@@ -26,9 +21,9 @@ This GitHub account hosts my primary project work across data analysis, machine 
 
 A collaborative effort to enhance student access to professional opportunities at UC Berkeley.
 
-* **Project Overview:** Together with Senator Memon's office, we launched the **Cal Opportunities Portal**, an online internship and fellowship bank designed to centralize and simplify the search for professional opportunities.
+* **Project Overview:** Developed the **Cal Opportunities Portal** alongside **[Emmy Son](https://github.com/emmy-son)** to create an online internship and fellowship bank designed to centralize and simplify the search for professional opportunities for Senators Abnusy and Memon.
 * **Goal:** Create a single, easy-to-navigate website to explore internships and fellowships across a wide range of fields, including legal, business, STEM, tech, politics, and scholarships.
-* **Access the Portal here:** https://senatorial-team.github.io/opportunities.github.io/index.html
+* **Access the Portal here:** [https://senatorial-team.github.io/opportunities.github.io/index.html](https://senatorial-team.github.io/opportunities.github.io/index.html)
 
 ### Tech Stack:
 
@@ -43,31 +38,20 @@ A collaborative effort to enhance student access to professional opportunities a
 * **Visualization:** `ggplot2`, `ggridges`, `GGally`
 
 #### SQL / Database
-* **Key Skills:** Database Creation & Management (e.g., CREATE, ALTER, INSERT, DELETE, UPDATE), Data Retrieval (e.g., SELECT, WHERE), Filtering & Aggregation (e.g., GROUP BY, HAVING, Aggregate Functions), Joining Tables (INNER, OUTER, CROSS Joins).
+* **Key Skills:**
+    * Database Creation & Management (e.g., `CREATE`, `ALTER`, `INSERT`, `DELETE`, `UPDATE`)
+    * Data Retrieval (e.g., `SELECT`, `WHERE`)
+    * Filtering & Aggregation (e.g., `GROUP BY`, `HAVING`, Aggregate Functions)
+    * Joining Tables (`INNER`, `OUTER`, `CROSS` Joins)
 * **Tools:** DataGrip, Tableau
 
 ---
 
 ### Contact Me
 
-* **Email:** `trannkle@gmail.com`
-* **LinkedIn:** `https://www.linkedin.com/in/trankle/`
+* **Email:** [trannkle@gmail.com](mailto:trannkle@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/trankle/](https://www.linkedin.com/in/trankle/)
 
 ### Fun Fact:
 
 I love adventures! Outside of coding, you can find me on a hiking trail with my siblings, traveling (I've been to Ireland and Japan!), or enjoying arts & crafts like building Legos, paper theaters, and origami. My next long-term pursuit is to master snowboarding!
-
-<!--
-**trannnle/trannnle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
