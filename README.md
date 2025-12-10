@@ -1,6 +1,6 @@
 ## •𐃷• Hello, I'm Tran!
 
-**Chapman University** 🐈‍⬛ graduate (May 2025) with a major in **Business Administration (Finance)** and a focus in **Data Analytics**.
+**Chapman University** 🐈‍⬛ graduate (May 2025) with a major in **Business Administration (Finance)** and a focus in **Data Analytics**!
 
 My journey into the world of data began with an intrigue for **data visualizations**. Growing up, I always enjoyed math, which naturally led me to finance where I could apply quantitative skills to real-world situations. However, I quickly realized the power of displaying complex information visually rather than relying solely on dense text and hard numbers. This insight drove me to Data Analytics and the data science field, where converting raw data into functional, efficient, and visual stories became my passion.
 
