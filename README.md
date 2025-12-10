@@ -10,11 +10,11 @@ I am often described by others as **adventurous, open-minded, and adaptable**, t
 
 ## Repository Structure:
 
-├── [**Python-Projects**](<#>)
+├── [**Python-Projects**](<https://github.com/trannnle/Python-Projects>)
 
-├── [**R-Projects**](<#>)
+├── [**R-Projects**](<https://github.com/trannnle/R-Projects>)
 
-├── [**SQL-Projects**](<#>)
+├── [**SQL-Projects**](<https://github.com/trannnle/SQL-Projects>)
 
 └── [**Personal-Scripts**](<#>)
 
