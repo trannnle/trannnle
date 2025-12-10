@@ -1,6 +1,6 @@
 ## •𐃷• Hello, I'm Tran!
 
-**Chapman University** graduate (May 2025) with a major in **Business Administration (Finance)** and a focus in **Data Analytics**.
+**Chapman University** 🐈‍⬛ graduate (May 2025) with a major in **Business Administration (Finance)** and a focus in **Data Analytics**.
 
 My journey into the world of data began with an intrigue for **data visualizations**. Growing up, I always enjoyed math, which naturally led me to finance where I could apply quantitative skills to real-world situations. However, I quickly realized the power of displaying complex information visually rather than relying solely on dense text and hard numbers. This insight drove me to Data Analytics and the data science field, where converting raw data into functional, efficient, and visual stories became my passion.
 
@@ -24,7 +24,7 @@ I am often described by others as **adventurous, open-minded, and adaptable**, t
 
 A collaborative effort to enhance student access to professional opportunities at UC Berkeley.
 
-* **Project Overview:** Developed the **Cal Opportunities Portal** alongside **[Emmy Son](https://github.com/emmy-son)** to create an online internship and fellowship bank designed to centralize and simplify the search for professional opportunities for Senators Abnusy and Memon.
+* **Project Overview:** Developed the **Cal Opportunities Portal** alongside **[Emmy Son](https://github.com/emmyson11)** to create an online internship and fellowship bank designed to centralize and simplify the search for professional opportunities for Senators Abnusy and Memon.
 * **Goal:** Create a single, easy-to-navigate website to explore internships and fellowships across a wide range of fields, including legal, business, STEM, tech, politics, and scholarships.
 * **Access the Portal here:** [https://senatorial-team.github.io/opportunities.github.io/index.html](https://senatorial-team.github.io/opportunities.github.io/index.html)
 
@@ -33,7 +33,7 @@ A collaborative effort to enhance student access to professional opportunities a
 ### Python
 * **Libraries:** `Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow` (implied), `Plotnine`
 * **ML/Stats:** Logistic Regression, Linear & Polynomial Regression, Ridge, Lasso, KNN, K-Means Clustering, GMM, Decision Trees, Random Forest
-* **Visualization:** Matplotlib, Seaborn
+* **Visualization:** `Matplotlib`, `Seaborn`
 
 ### R
 * **Libraries:** `glmnet`, `tree`, `randomForest`, `pROC`, `factoextra`, `ggplot2`
@@ -42,9 +42,9 @@ A collaborative effort to enhance student access to professional opportunities a
 
 ### SQL / Database
 * **Key Skills:**
-    * Database Creation & Management (e.g., `CREATE`, `ALTER`, `INSERT`, `DELETE`, `UPDATE`)
-    * Data Retrieval (e.g., `SELECT`, `WHERE`)
-    * Filtering & Aggregation (e.g., `GROUP BY`, `HAVING`, Aggregate Functions)
+    * Database Creation & Management (`CREATE`, `ALTER`, `INSERT`, `DELETE`, `UPDATE`)
+    * Data Retrieval (`SELECT`, `WHERE`)
+    * Filtering & Aggregation (`GROUP BY`, `HAVING`, Aggregate Functions)
     * Joining Tables (`INNER`, `OUTER`, `CROSS` Joins)
 * **Tools:** DataGrip, Tableau
 
@@ -56,4 +56,4 @@ A collaborative effort to enhance student access to professional opportunities a
 
 ## Fun Fact:
 
-I love adventures! Outside of coding, you can find me on a hiking trail with my siblings, traveling (I've been to Ireland and Japan!), or enjoying arts & crafts like building Legos, paper theaters, and origami. My next long-term pursuit is to master snowboarding!
+My passions include traveling ✈️, arts & crafts 🎨 (Legos/paper theaters/origami), and active adventures 🏂 (hiking/snowboarding)!
