@@ -10,10 +10,10 @@ I am often described by others as **adventurous, open-minded, and adaptable**, t
 
 ### Repository Structure:
 
-* [├── **Python-Projects**](<#>)
-* [├── **R-Projects**](<#>)
-* [├── **SQL-Projects**](<#>)
-* [└── **Personal-Scripts**](<#>)
+├── [**Python-Projects**](<#>)
+├── [**R-Projects**](<#>)
+├── [**SQL-Projects**](<#>)
+└── [**Personal-Scripts**](<#>)
 
 ---
 
