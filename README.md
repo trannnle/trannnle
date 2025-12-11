@@ -2,7 +2,7 @@
 
 **Chapman University** 🐈‍⬛ graduate (May 2025) with a major in **Business Administration (Finance)** and a focus in **Data Analytics**!
 
-My journey into the world of data began with an intrigue for **data visualizations**. Growing up, I always enjoyed math, which naturally led me to finance where I could apply quantitative skills to real-world situations. However, I quickly realized the power of displaying complex information visually rather than relying solely on dense text and hard numbers. This insight drove me to Data Analytics and the data science field, where converting raw data into functional, efficient, and visual stories became my passion.
+My journey into the world of data began with an interest for **data visualizations**. Growing up, I always enjoyed math, which naturally led me to finance where I could apply quantitative skills to real-world situations. However, I quickly realized the power of displaying complex information visually rather than relying solely on dense text and hard numbers. This insight drove me to Data Analytics and the data science field, where converting raw data into functional, efficient, and visual stories became my passion.
 
 I am often described by others as **adventurous, open-minded, and adaptable**, thriving in environments that require continuous learning and flexibility. If you're interested in connecting, collaborating on a project, or just chatting, please feel free to reach out!
 
