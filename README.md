@@ -8,7 +8,7 @@ I am often described by others as **adventurous, open-minded, and adaptable**, t
 
 
 
-## Repository Structure:
+## Repository Structure
 
 ├── [**Python-Projects**](<https://github.com/trannnle/Python-Projects>)
 
@@ -28,7 +28,7 @@ A collaborative effort to enhance student access to professional opportunities a
 * **Goal:** Create a single, easy-to-navigate website to explore internships and fellowships across a wide range of fields, including legal, business, STEM, tech, politics, and scholarships.
 * **Access the Portal here:** [https://senatorial-team.github.io/opportunities.github.io/index.html](https://senatorial-team.github.io/opportunities.github.io/index.html)
 
-## Tech Stack:
+## Tech Stack
 
 ### Python
 * **Libraries:** `Pandas`, `NumPy`, `Scikit-learn`, `TensorFlow` (implied), `Plotnine`
@@ -54,6 +54,6 @@ A collaborative effort to enhance student access to professional opportunities a
 * **Email:** [trannkle@gmail.com](mailto:trannkle@gmail.com)
 * **LinkedIn:** [https://www.linkedin.com/in/trankle/](https://www.linkedin.com/in/trankle/)
 
-## Fun Fact:
+## Fun Fact
 
 My passions include traveling ✈️, arts & crafts 🎨 (Legos/paper theaters/origami), and active adventures 🏂 (hiking/snowboarding)!
