@@ -12,11 +12,11 @@ I am often described by others as **adventurous, open-minded, and adaptable**, t
 
 ├── [**Python-Projects**](<https://github.com/trannnle/Python-Projects>)
 
-├── [**R-Projects**](WIP)
+├── **R-Projects** (WIP)
 
-├── [**SQL-Projects**] (WIP)
+├── **SQL-Projects** (WIP)
 
-└── [**Personal-Scripts**](WIP)
+└── **Personal-Scripts** (WIP)
 
 
 
